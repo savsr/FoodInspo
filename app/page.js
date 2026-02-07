@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 
-const GITHUB_RAW_URL = 'https://raw.githubusercontent.com/savsr/FoodInspo/main/data';
+const GITHUB_RAW_URL = 'https://github.com/savsr/FoodInspo/tree/d41de2a79f5e90420d2b833b2275dd49415120a3/data';
 
 const FILTER_OPTIONS = {
   mealType: ["Any", "Weeknight Dinner", "Quick Lunch", "Side Dish", "Weekend Showstopper", "BBQ", "Brunch", "Snack/Starter"],
